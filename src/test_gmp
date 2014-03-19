@@ -1,0 +1,26 @@
+#/bin/bash
+
+./test_add_gmp 32 32
+./test_add_gmp 128 128
+./test_add_gmp 256 256
+./test_add_gmp 512 512
+./test_add_gmp 1024 1024
+./test_add_gmp 8192 8192
+./test_add_gmp 65536 65536
+
+./test_mul_gmp 32 32
+./test_mul_gmp 128 128
+./test_mul_gmp 256 256
+./test_mul_gmp 512 512
+./test_mul_gmp 1024 1024
+./test_mul_gmp 8192 8192
+./test_mul_gmp 65536 65536
+
+./test_pow_gmp 32 32
+./test_pow_gmp 128 128
+./test_pow_gmp 256 256
+./test_pow_gmp 512 512
+./test_pow_gmp 1024 1024
+./test_pow_gmp 8192 8192
+./test_pow_gmp 65536 65536
+

@@ -1,0 +1,5 @@
+This is a M2 project. The goal was to create a library to do computation with very big integers (more than 64 bits).
+
+Implemented from: vuillemin.pdf
+
+Report (in french): rapport.pdf

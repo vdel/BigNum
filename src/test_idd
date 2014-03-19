@@ -1,0 +1,22 @@
+#/bin/bash
+
+./test_add_idd 32 32
+./test_add_idd 128 128
+./test_add_idd 256 256
+./test_add_idd 512 512
+./test_add_idd 1024 1024
+./test_add_idd 8192 8192
+./test_add_idd 65536 65536
+
+./test_mul_idd 32 32
+./test_mul_idd 128 128
+./test_mul_idd 256 256
+./test_mul_idd 512 512
+./test_mul_idd 1024 1024
+./test_mul_idd 8192 8192
+./test_mul_idd 65536 65536
+
+./test_pow_idd 32 32
+./test_pow_idd 128 128
+./test_pow_idd 256 256
+
